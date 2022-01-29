@@ -341,7 +341,7 @@ export default {
 }
 ```
 
-## Comparsion
+## Comparison
 
 ### Use [Vitepress](https://github.com/vuejs/vitepress) when you want:
 
